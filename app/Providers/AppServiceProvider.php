@@ -23,10 +23,10 @@ class AppServiceProvider extends ServiceProvider
     {
         //
         Livewire::setUpdateRoute(function ($handle) {
-            return Route::post('Post/Mundana/public/livewire/update', $handle);
+            return Route::post('Mundana/livewire/update', $handle);
         });
         Livewire::setScriptRoute(function ($handle) {
-            return Route::get('Post/Mundana/public/livewire/livewire.js', $handle);
+            return Route::get('Mundana/livewire/livewire.js', $handle);
         });
     }
 }
