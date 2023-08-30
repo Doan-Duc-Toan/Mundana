@@ -54,8 +54,8 @@ NAVBAR
                 </div>
                 <div>
                     Made with <a target="_blank" class="text-secondary font-weight-bold"
-                        href="https://www.wowthemes.net/mundana-free-html-bootstrap-template/">Mundana Theme</a> by
-                    WowThemes.net.
+                        href="">Mundana </a> by
+                    Doan Duc Toan
                 </div>
             </div>
         </footer>
